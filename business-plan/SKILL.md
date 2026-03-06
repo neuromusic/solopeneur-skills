@@ -10,7 +10,7 @@ A business plan is not a static document you write once and file away. For solop
 
 ---
 
-## Section 1: Executive Summary (Write This LAST)
+## Step 1: Executive Summary (Write This LAST)
 
 Even though it appears first, write this after everything else is done. It is a 1-page distillation of the entire plan.
 
@@ -25,7 +25,7 @@ Even though it appears first, write this after everything else is done. It is a 
 
 ---
 
-## Section 2: Company Overview
+## Step 2: Company Overview
 
 Brief, factual, no fluff.
 
@@ -37,7 +37,7 @@ Brief, factual, no fluff.
 
 ---
 
-## Section 3: Problem and Solution
+## Step 3: Problem and Solution
 
 This is the heart of the plan. If this section is weak, everything after it is built on sand.
 
@@ -57,7 +57,7 @@ This is the heart of the plan. If this section is weak, everything after it is b
 
 ---
 
-## Section 4: Market Analysis
+## Step 4: Market Analysis
 
 Pull directly from your market-research skill output. Summarize into:
 
@@ -70,7 +70,7 @@ Pull directly from your market-research skill output. Summarize into:
 
 ---
 
-## Section 5: Competitive Landscape
+## Step 5: Competitive Landscape
 
 Pull from your competitive-analysis skill output. Include:
 
@@ -82,7 +82,7 @@ Pull from your competitive-analysis skill output. Include:
 
 ---
 
-## Section 6: Business and Revenue Model
+## Step 6: Business and Revenue Model
 
 Pull from your business-model-canvas output. Translate into narrative form:
 
@@ -94,7 +94,7 @@ Pull from your business-model-canvas output. Translate into narrative form:
 
 ---
 
-## Section 7: Operations Plan
+## Step 7: Operations Plan
 
 How does the business actually run day-to-day?
 
@@ -106,7 +106,7 @@ How does the business actually run day-to-day?
 
 ---
 
-## Section 8: Marketing and Sales Plan
+## Step 8: Marketing and Sales Plan
 
 - **Positioning:** Your positioning statement (from positioning-strategy)
 - **Marketing channels:** Which 2-3 channels you'll focus on first and why
@@ -117,7 +117,7 @@ How does the business actually run day-to-day?
 
 ---
 
-## Section 9: Financial Projections
+## Step 9: Financial Projections
 
 Build a simple but honest financial model:
 
@@ -139,7 +139,7 @@ Build a simple but honest financial model:
 
 ---
 
-## Section 10: Risk Assessment
+## Step 10: Risk Assessment
 
 Every business has risks. Identifying them doesn't make them go away — it lets you plan around them.
 
@@ -159,8 +159,10 @@ Every business has risks. Identifying them doesn't make them go away — it lets
 
 ---
 
-## Plan Maintenance Rules
-- **Update monthly** during the first 6 months. Reality will differ from your plan constantly.
-- **Mark assumptions clearly.** Highlight every assumption in the plan. When reality proves one right or wrong, update it and note what changed.
-- **Version it.** Keep old versions. Comparing your plan from 3 months ago to today is one of the best ways to learn and improve your forecasting.
-- **Share it.** Show it to 2-3 trusted people (advisors, fellow founders, mentors). Outside eyes catch blind spots.
+## Business Plan Mistakes to Avoid
+- Writing it once and never touching it again. A business plan that doesn't evolve with reality is a fiction document. Update monthly for the first 6 months, quarterly after that.
+- Not distinguishing assumptions from facts. Every unverified claim should be labeled as an assumption. When reality proves it right or wrong, update it explicitly — this is how your forecasting improves.
+- Making projections without showing the math. "Year 1 revenue: $500K" with no underlying logic is useless. Show the customer count, price, and conversion rates that produce that number.
+- Burying the competitive analysis. Pretending competitors are weak doesn't make your plan more compelling — it makes it less credible. Name their real strengths and explain specifically why you win anyway.
+- Keeping it private. Show the plan to 2-3 trusted people — advisors, fellow founders, mentors. The blind spots you can't see are exactly what outside eyes catch.
+- Treating the plan as the goal. The plan is not the business. A polished 30-page document with no customers is a well-documented failure. The plan exists to drive decisions and action, not to be admired.

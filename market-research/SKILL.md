@@ -142,3 +142,13 @@ Produce a single Market Research document containing:
 - **Recommended next actions** — numbered, specific, prioritized
 
 Schedule a quarterly refresh. Markets move. What's true today may not be in 90 days.
+
+---
+
+## Market Research Mistakes to Avoid
+- Researching without a question list. Spending hours reading without clear questions produces a pile of information with no actionable conclusions.
+- Treating TAM numbers as meaningful without sanity-checking them. A $50B market that you can realistically capture $50K of is not a big opportunity.
+- Only reading competitor marketing copy. Read their negative reviews — that's where the real gaps live.
+- Skipping primary research. Desk research tells you what's written down. Talking to people tells you what's actually true.
+- Doing research once and never revisiting. Markets shift, competitors pivot, trends accelerate. Stale research leads to stale strategy.
+- Letting research become a substitute for action. The goal is a decision — go, no-go, or pivot. Cap your research phase and force a conclusion.

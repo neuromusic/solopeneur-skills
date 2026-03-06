@@ -5,7 +5,7 @@ description: Select and refine a profitable, focused niche for a solopreneur bus
 
 # Niche Selection
 
-## Why This Matters for Solopreneurs
+## Overview
 You cannot outspend, outhire, or out-market a funded competitor. What you can do is out-focus them. A tight niche lets you speak the customer's exact language, dominate a small pond via word-of-mouth and SEO, charge premium prices (specialist > generalist), and build a focused marketing strategy on a lean budget. The goal: become the obvious choice for one specific group of people.
 
 ---

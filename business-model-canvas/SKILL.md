@@ -10,11 +10,9 @@ The Business Model Canvas (BMC) is a one-page strategic tool that maps every ele
 
 ---
 
-## The Nine (+1) Blocks
+Fill these steps in order. Each block informs the next. Do not skip around.
 
-Fill these in the order listed. Each block informs the next. Do not skip around.
-
-### Block 1: Customer Segments
+## Step 1: Customer Segments
 **Question:** Who exactly are you serving?
 
 - Be specific. Not "small businesses." Define 1-3 tight segments.
@@ -22,7 +20,7 @@ Fill these in the order listed. Each block informs the next. Do not skip around.
 - Rank segments by: pain intensity × willingness to pay × reachability.
 - Your primary segment (the one you build for first) should score highest across all three.
 
-### Block 2: Value Propositions
+## Step 2: Value Propositions
 **Question:** What specific value do you deliver to each segment?
 
 - Write one value proposition per segment. Make it concrete and measurable.
@@ -30,14 +28,14 @@ Fill these in the order listed. Each block informs the next. Do not skip around.
 - Quantify the value wherever possible: "Save 5 hours/week", "Cut churn by 30%", "Close deals 2x faster."
 - Identify whether your value is primarily: cost savings, time savings, quality improvement, risk reduction, or new capability.
 
-### Block 3: Channels
+## Step 3: Channels
 **Question:** How do customers discover and buy from you?
 
 - Map the full customer journey: Awareness → Consideration → Purchase → Delivery → Post-purchase.
 - For each stage, identify the specific channel or touchpoint. Example: Awareness = LinkedIn content + SEO blog. Consideration = free trial. Purchase = website checkout. Delivery = onboarding email sequence. Post-purchase = in-app onboarding.
 - Identify which channels are owned (blog, email list, social following), earned (word-of-mouth, reviews, press), or paid (ads). Aim for a mix, but as a solopreneur, owned and earned channels are your lifeline.
 
-### Block 4: Customer Relationships
+## Step 4: Customer Relationships
 **Question:** What kind of relationship does each customer segment expect?
 
 Choose the dominant model(s) for your business:
@@ -48,7 +46,7 @@ Choose the dominant model(s) for your business:
 
 As a solopreneur, self-service and automated are your scaling levers. One-to-one doesn't scale but can be your revenue bridge while building.
 
-### Block 5: Revenue Streams
+## Step 5: Revenue Streams
 **Question:** How does money flow in, and from whom?
 
 For each customer segment, define:
@@ -59,7 +57,7 @@ For each customer segment, define:
 
 List ALL revenue streams. Most successful solopreneur businesses have 2-3 streams (e.g., a SaaS product + a consulting arm + a digital course).
 
-### Block 6: Key Resources
+## Step 6: Key Resources
 **Question:** What do you need to deliver your value proposition?
 
 As a solopreneur, resources are: your time, your skills, tools/software, and any intellectual property or data you have.
@@ -68,7 +66,7 @@ As a solopreneur, resources are: your time, your skills, tools/software, and any
 - Flag which are one-time investments vs. ongoing costs.
 - Identify the resource that is your biggest bottleneck. This often reveals a scaling problem early.
 
-### Block 7: Key Activities
+## Step 7: Key Activities
 **Question:** What must you actually DO every day/week to keep this business running?
 
 Split into:
@@ -78,7 +76,7 @@ Split into:
 
 **Solopreneur time-check:** Estimate hours per week for each activity. If the total exceeds your available hours (realistically 30-40 for a full-time solo operation), something must be cut, automated, or outsourced.
 
-### Block 8: Key Partnerships
+## Step 8: Key Partnerships
 **Question:** What external relationships reduce risk or fill capability gaps?
 
 Partnerships for solopreneurs often include:
@@ -89,7 +87,7 @@ Partnerships for solopreneurs often include:
 
 **Risk flag:** If your business depends on a single platform or partner that could change terms or shut down, that's a critical risk. Identify these and have contingency plans.
 
-### Block 9: Cost Structure
+## Step 9: Cost Structure
 **Question:** What does it cost to run this business?
 
 Categorize costs:
@@ -99,7 +97,7 @@ Categorize costs:
 
 Calculate your **monthly burn rate** (fixed + baseline variable) and your **break-even point** (how many customers or revenue needed to cover all costs).
 
-### Block 10 (Solopreneur Addition): Time & Energy Budget
+## Step 10: Time & Energy Budget (Solopreneur Addition)
 **Question:** Can YOU actually do all of this without burning out?
 
 This block doesn't exist in the standard BMC but is the #1 killer of solopreneur businesses.
@@ -114,7 +112,7 @@ This block doesn't exist in the standard BMC but is the #1 killer of solopreneur
 
 ---
 
-## Validation Step: Cross-Block Consistency Check
+## Step 11: Cross-Block Consistency Check
 
 After filling all blocks, run these checks. Each one catches a common mistake:
 
@@ -132,7 +130,7 @@ After filling all blocks, run these checks. Each one catches a common mistake:
 
 ---
 
-## Unit Economics Sanity Check
+## Step 12: Unit Economics Sanity Check
 
 Before finalizing, calculate these three numbers:
 
@@ -144,10 +142,10 @@ If unit economics don't work, adjust: raise price, reduce CAC via better channel
 
 ---
 
-## When to Revisit
-- Before every major decision (new feature, new market, new pricing).
-- Monthly during the first 6 months of operation.
-- Quarterly thereafter.
-- Whenever a key assumption is proven wrong by real data.
-
-The BMC is a living document. The version you write today will be wrong in 30 days. That's expected. Update it honestly and often.
+## Business Model Canvas Mistakes to Avoid
+- Filling it in one session and never touching it again. The BMC is a living document — the version you write today will be wrong in 30 days. Update it monthly for the first 6 months, then quarterly.
+- Skipping the cross-block consistency check. A beautiful canvas with internal contradictions (e.g., channels that can't reach your segments) will fail in the market exactly as predicted.
+- Ignoring the Time & Energy block. This is the #1 solopreneur-specific failure mode — a technically valid business model that requires 80 hours/week to run is not a viable business.
+- Listing aspirational resources and partners instead of actual ones. If you don't have the relationship, don't count on it. Build the model around what you can realistically secure.
+- Having only one revenue stream. A single stream means a single point of failure. Most successful solopreneur businesses build 2-3 complementary streams over time.
+- Never testing unit economics until after launch. CAC, LTV, and payback period must be estimated before you build — not discovered after you've spent 6 months going in the wrong direction.

@@ -10,7 +10,7 @@ Kill bad ideas fast, confirm good ones cheaply. Walk through every phase in orde
 
 ---
 
-## Phase 1: Problem Definition
+## Step 1: Problem Definition
 
 Everything starts here. A vague problem = a vague business.
 
@@ -25,7 +25,7 @@ Everything starts here. A vague problem = a vague business.
 
 ---
 
-## Phase 2: Demand Signal Gathering
+## Step 2: Demand Signal Gathering
 
 Prove real people care. Do not rely on assumptions or polite friends.
 
@@ -43,7 +43,7 @@ Prove real people care. Do not rely on assumptions or polite friends.
 
 ---
 
-## Phase 3: Solution Fit Check
+## Step 3: Solution Fit Check
 
 Pressure-test whether your proposed solution actually solves the problem well enough to build a business on.
 
@@ -56,7 +56,7 @@ Pressure-test whether your proposed solution actually solves the problem well en
 
 ---
 
-## Phase 4: Customer Discovery (Talk to Humans)
+## Step 4: Customer Discovery (Talk to Humans)
 
 10-15 conversations with real potential customers. Non-negotiable. No amount of desk research replaces this.
 
@@ -105,7 +105,7 @@ Pressure-test whether your proposed solution actually solves the problem well en
 
 ---
 
-## Phase 5: Riskiest Assumption Test (RAT)
+## Step 5: Riskiest Assumption Test (RAT)
 
 One assumption, if wrong, kills everything. Find it. Test it in under 2 weeks and $200.
 
@@ -129,7 +129,7 @@ One assumption, if wrong, kills everything. Find it. Test it in under 2 weeks an
 
 ---
 
-## Phase 6: Go / No-Go Scorecard
+## Step 6: Go / No-Go Scorecard
 
 | Dimension | Score (1-5) | Weight |
 |---|---|---|
@@ -148,7 +148,9 @@ One assumption, if wrong, kills everything. Find it. Test it in under 2 weeks an
 
 ---
 
-## Meta-Rules
-- Document everything in one "Idea Validation" doc — it becomes raw material for your business plan.
-- Time-box the whole process: 2-3 weeks max. Validation paralysis is a real trap.
-- Run 2-3 ideas in parallel when possible. Comparing sharpens judgment.
+## Idea Validation Mistakes to Avoid
+- Not documenting findings in one place — insights scattered across notes, emails, and chats become useless. Keep one running "Idea Validation" doc from day one.
+- Letting validation drag on indefinitely. Time-box the entire process to 2-3 weeks max. Validation paralysis is as fatal as skipping it entirely.
+- Testing one idea in isolation. Run 2-3 ideas in parallel when possible — the comparison sharpens judgment and reveals which assumptions you're making about all of them.
+- Confusing polite interest with real demand. Friends and colleagues will say nice things. Pay-or-commit signals from strangers are the only ones that count.
+- Skipping the kill checks. Each phase has a kill check for a reason. Ignoring a failed check and pressing forward wastes weeks or months on a dead-end idea.
