@@ -1,0 +1,194 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "solopreneur-skills",
+  "description": "45 structured business playbooks for solopreneurs, grouped into nine installable plugins covering everything from validating a first idea to scaling beyond yourself.",
+  "owner": {
+    "name": "Justin Kiggins",
+    "url": "https://github.com/neuromusic"
+  },
+  "metadata": {
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "solo-validation",
+      "displayName": "Solopreneur: Idea & Market Validation",
+      "description": "Stress-test a business idea before investing time or money. Use when sizing a market, picking a niche, dissecting competitors, or deciding go/no-go on an idea. Covers demand evidence, TAM/SAM/SOM, niche scoring, competitor gap analysis, and the Business Model Canvas.",
+      "source": "./",
+      "strict": false,
+      "version": "1.0.0",
+      "category": "productivity",
+      "license": "MIT",
+      "homepage": "https://github.com/neuromusic/solopeneur-skills",
+      "author": { "name": "Justin Kiggins", "url": "https://github.com/neuromusic" },
+      "keywords": ["validation", "market-research", "niche", "competitive-analysis", "business-model"],
+      "skills": [
+        "./skills/idea-validation",
+        "./skills/market-research",
+        "./skills/niche-selection",
+        "./skills/competitive-analysis",
+        "./skills/business-model-canvas"
+      ]
+    },
+    {
+      "name": "solo-brand",
+      "displayName": "Solopreneur: Brand & Positioning",
+      "description": "Decide what the business stands for and how it is described. Use when building or refreshing a brand identity, differentiating against competitors, naming a business or product, or writing a business plan. Covers brand voice, visual identity, positioning statements, naming frameworks, and domain strategy.",
+      "source": "./",
+      "strict": false,
+      "version": "1.0.0",
+      "category": "design",
+      "license": "MIT",
+      "homepage": "https://github.com/neuromusic/solopeneur-skills",
+      "author": { "name": "Justin Kiggins", "url": "https://github.com/neuromusic" },
+      "keywords": ["branding", "positioning", "naming", "business-plan", "differentiation"],
+      "skills": [
+        "./skills/brand-identity",
+        "./skills/positioning-strategy",
+        "./skills/naming-and-domains",
+        "./skills/business-plan"
+      ]
+    },
+    {
+      "name": "solo-product",
+      "displayName": "Solopreneur: Product & Launch",
+      "description": "Decide what to build and how to put it in front of customers. Use when scoping an MVP, prioritizing features, planning a roadmap, or running a launch. Covers ruthless feature cutting, RICE prioritization, launch sequencing from waitlist to week-one momentum, and 90-day go-to-market plans.",
+      "source": "./",
+      "strict": false,
+      "version": "1.0.0",
+      "category": "productivity",
+      "license": "MIT",
+      "homepage": "https://github.com/neuromusic/solopeneur-skills",
+      "author": { "name": "Justin Kiggins", "url": "https://github.com/neuromusic" },
+      "keywords": ["mvp", "roadmap", "product-launch", "go-to-market", "prioritization"],
+      "skills": [
+        "./skills/mvp-planning",
+        "./skills/product-roadmap",
+        "./skills/product-launch",
+        "./skills/go-to-market"
+      ]
+    },
+    {
+      "name": "solo-finance",
+      "displayName": "Solopreneur: Pricing & Finance",
+      "description": "Set prices and keep the books straight in a one-person business. Use when deciding what to charge, designing revenue streams, checking whether the business is profitable per customer, budgeting and forecasting, or preparing for tax time. Covers value-based pricing, CAC/LTV, cash flow, bookkeeping, and quarterly taxes.",
+      "source": "./",
+      "strict": false,
+      "version": "1.0.0",
+      "category": "productivity",
+      "license": "MIT",
+      "homepage": "https://github.com/neuromusic/solopeneur-skills",
+      "author": { "name": "Justin Kiggins", "url": "https://github.com/neuromusic" },
+      "keywords": ["pricing", "revenue", "unit-economics", "bookkeeping", "taxes"],
+      "skills": [
+        "./skills/pricing-strategy",
+        "./skills/revenue-model-design",
+        "./skills/unit-economics",
+        "./skills/financial-planning",
+        "./skills/bookkeeping-basics",
+        "./skills/tax-planning"
+      ]
+    },
+    {
+      "name": "solo-sales",
+      "displayName": "Solopreneur: Sales & Proposals",
+      "description": "Turn strangers into signed contracts without a sales team. Use when building a pipeline, writing cold outreach, drafting a proposal or grant application, handling price pushback, or closing a stalled deal. Covers funnel design, cold email and LinkedIn sequences, proposal structure, BATNA and objection handling, and closing techniques.",
+      "source": "./",
+      "strict": false,
+      "version": "1.0.0",
+      "category": "productivity",
+      "license": "MIT",
+      "homepage": "https://github.com/neuromusic/solopeneur-skills",
+      "author": { "name": "Justin Kiggins", "url": "https://github.com/neuromusic" },
+      "keywords": ["sales", "outreach", "proposals", "negotiation", "closing", "grants"],
+      "skills": [
+        "./skills/sales-funnel-design",
+        "./skills/outreach-and-prospecting",
+        "./skills/proposal-writing",
+        "./skills/negotiation",
+        "./skills/closing-deals",
+        "./skills/grant-writing-framework"
+      ]
+    },
+    {
+      "name": "solo-marketing",
+      "displayName": "Solopreneur: Marketing & Content",
+      "description": "Get found and get read on a solo budget. Use when planning content, writing landing pages or ads, building an email list, chasing organic search traffic, growing on social, or running paid campaigns. Covers content pillars and repurposing, AIDA/PAS/FAB copy formulas, email sequences, keyword research and on-page SEO, and campaign optimization.",
+      "source": "./",
+      "strict": false,
+      "version": "1.0.0",
+      "category": "productivity",
+      "license": "MIT",
+      "homepage": "https://github.com/neuromusic/solopeneur-skills",
+      "author": { "name": "Justin Kiggins", "url": "https://github.com/neuromusic" },
+      "keywords": ["marketing", "content", "copywriting", "email", "seo", "social", "ads"],
+      "skills": [
+        "./skills/content-strategy",
+        "./skills/copywriting",
+        "./skills/email-marketing",
+        "./skills/seo-strategy",
+        "./skills/social-media-marketing",
+        "./skills/paid-advertising"
+      ]
+    },
+    {
+      "name": "solo-customers",
+      "displayName": "Solopreneur: Customer Success",
+      "description": "Keep the customers you already won. Use when designing onboarding, diagnosing churn, collecting and acting on feedback, or setting up support that does not eat the day. Covers activation metrics and time-to-value, retention cohorts and win-back campaigns, customer interviews and NPS, and self-service support systems.",
+      "source": "./",
+      "strict": false,
+      "version": "1.0.0",
+      "category": "productivity",
+      "license": "MIT",
+      "homepage": "https://github.com/neuromusic/solopeneur-skills",
+      "author": { "name": "Justin Kiggins", "url": "https://github.com/neuromusic" },
+      "keywords": ["onboarding", "retention", "churn", "feedback", "support"],
+      "skills": [
+        "./skills/customer-onboarding",
+        "./skills/customer-retention",
+        "./skills/customer-feedback",
+        "./skills/support-systems"
+      ]
+    },
+    {
+      "name": "solo-operations",
+      "displayName": "Solopreneur: Operations & Systems",
+      "description": "Build the machinery so the business does not depend on remembering everything. Use when organizing projects, automating repetitive work, documenting a process as an SOP, wiring up spreadsheets as systems, forming an entity or reviewing contracts, or growing beyond solo. Covers task systems, Zapier/Make/n8n workflows, Apps Script, SOP extraction from transcripts, LLC and IP basics, and delegation.",
+      "source": "./",
+      "strict": false,
+      "version": "1.0.0",
+      "category": "automation",
+      "license": "MIT",
+      "homepage": "https://github.com/neuromusic/solopeneur-skills",
+      "author": { "name": "Justin Kiggins", "url": "https://github.com/neuromusic" },
+      "keywords": ["operations", "automation", "sop", "spreadsheets", "legal", "scaling"],
+      "skills": [
+        "./skills/project-management",
+        "./skills/automation-workflows",
+        "./skills/scaling-strategy",
+        "./skills/legal-essentials",
+        "./skills/sop-generator",
+        "./skills/spreadsheet-automation"
+      ]
+    },
+    {
+      "name": "solo-productivity",
+      "displayName": "Solopreneur: Focus & Wellbeing",
+      "description": "Protect the one resource a solo business cannot replace: the operator. Use when setting goals, time-blocking a calendar, fighting distraction and context-switching, avoiding burnout, or learning something deeply rather than collecting quick answers. Covers OKRs and goal hierarchies, deep work and energy management, mental health psychoeducation, and Socratic learning.",
+      "source": "./",
+      "strict": false,
+      "version": "1.0.0",
+      "category": "productivity",
+      "license": "MIT",
+      "homepage": "https://github.com/neuromusic/solopeneur-skills",
+      "author": { "name": "Justin Kiggins", "url": "https://github.com/neuromusic" },
+      "keywords": ["okrs", "time-management", "deep-work", "burnout", "learning"],
+      "skills": [
+        "./skills/time-management",
+        "./skills/goal-setting-okrs",
+        "./skills/mental-health-psychoeducation",
+        "./skills/reclaim-your-brain"
+      ]
+    }
+  ]
+}
